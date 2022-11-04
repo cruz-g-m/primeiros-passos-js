@@ -1,0 +1,17 @@
+() ** / 	operadores aritimeticos
+
+> < >= 		operadores relacionais
+
+! 
+&&  		operadores logicos
+||
+
+
+ternario
+
+teste ? true : false
+
+var média = 5
+média >= 7.0 ? aprovado : reprovado
+reprovado
+
