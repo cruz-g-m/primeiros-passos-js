@@ -1,3 +1,3 @@
-# Variaveis e Operadores
+# Curso de Javascript
 
 - Inicio...
